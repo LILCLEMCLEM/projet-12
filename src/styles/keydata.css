@@ -1,0 +1,54 @@
+.rightPannel{
+    margin-top: 270px;
+    display: flex;
+    justify-content: start;
+    
+    margin-left:20px;
+    
+    
+    
+}
+
+.box_container{
+   display: flex;
+   width: 258px;
+    height: 124px;
+
+   background-color: #FBFBFB;
+   margin-bottom: 58px;
+   justify-content: space-evenly;
+   align-items: center;
+    
+}
+
+.energies{
+    padding: 15px;
+    background-color: rgba(255, 0, 0, 0.10);
+    width: 20px;
+    height: 20px;
+}
+
+.proteines{
+    padding: 15px;
+    background-color: rgba(74, 184, 255, 0.1);
+    width: 20px;
+    height: 20px;
+}
+
+.glucides{
+    padding: 15px;
+    background-color: rgba(249, 206, 35, 0.1);
+    width: 20px;
+    height: 20px;
+}
+
+.cheeseburger{
+    padding: 15px;
+    background-color: rgba(253, 81, 129, 0.1);
+    width: 20px;
+    height: 20px;
+}
+
+
+
+

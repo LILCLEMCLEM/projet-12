@@ -1,0 +1,30 @@
+.App {
+   
+    background-color: #020203;
+    height: 91px;
+    width: 100%;
+}
+
+.header_container {
+    display: flex;
+    margin: auto;
+    justify-content: space-between;
+    align-items: center;
+    height: 91px;
+    width: 95%;
+}
+
+.header_container >img {
+    justify-self: flex-start;
+    height: 60.93px;
+    width: 178px;
+    
+}
+
+.header_container > p {
+    color:white;
+    font-family: 'Roboto';
+    font-size: 24px;
+    font-weight: 500;
+    margin-right: 5%;
+}

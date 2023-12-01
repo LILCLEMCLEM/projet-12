@@ -1,0 +1,77 @@
+.ch_container {
+    width: 110%;
+    max-width: 800px;
+    height: 320px;
+    overflow: hidden;
+    padding: 50px;
+    padding-top:0;
+    padding-left: 0px;
+    background-color: #00000005;
+    
+}
+
+@media all and (width < 1300px) {
+    .ch_container {
+        width: 100%;
+    }
+}
+
+.named{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-left: 30px;
+
+    font-size: 15px;
+    font-weight: 500;
+}
+
+
+.recharts-cartesian-grid-vertical {
+    visibility: hidden;
+}
+
+.recharts-legend-wrapper {
+    margin-top: -15px;
+    
+}
+
+
+.recharts-wrapper {
+    overflow: visible;
+    padding-left:35px;
+}
+.recharts-surface {
+    overflow: visible;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    margin-left: 30px;
+
+    font-size: 15px;
+    font-weight: 500;
+}
+.recharts-legend-item-text {
+    color: black !important;
+}
+
+.recharts-cartesian-axis-tick-line{
+    visibility: hidden;
+}
+
+.recharts-cartesian-axis-line {
+    visibility: hidden;
+}
+
+.vertical .recharts-surface{
+    margin-left: 0px;
+}
+
+.vertical .text{
+    color: red;
+}
+
+.recharts-tooltip-item-list li span {
+    color: #000;
+}
+
+
+

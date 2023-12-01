@@ -1,0 +1,21 @@
+.user_container {
+    display: flex;
+    flex-direction: column;
+    margin-left: 17%;
+    
+}
+
+.user_container >.HelloUser {
+    font-size: 48px;
+    font-weight: 500;
+    margin-bottom: 20px;
+}
+
+.user_container >p >span{
+    color: #FF0101;
+}
+.user_container >p >.user_i {
+    
+    font-size: 18px;
+}
+

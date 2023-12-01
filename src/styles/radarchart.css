@@ -1,0 +1,15 @@
+.ItemList2 {
+    
+        width: 240px;
+        height: 250px;
+        background-color: #282D30;
+        border-radius: 5px;
+        padding: 15px;
+        margin-top: 20px;
+        margin-left: 20px;
+    
+}
+
+.ItemList2 .recharts-wrapper{
+        margin-left: -5px;
+}

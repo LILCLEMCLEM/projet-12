@@ -1,0 +1,27 @@
+.ItemList1 {
+    width: 240px;
+    height: 250px;
+    background-color: red;
+    border-radius: 5px;
+    padding: 15px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.ItemList1 .recharts-wrapper{
+    padding: 0px;
+}
+
+
+.ItemList1 .recharts-surface{
+    padding: 0px;
+    margin-left: -15px;
+}
+
+.custom-tooltip {
+    background-color: white;
+    padding: 1px;
+    padding-right: 10px;
+    padding-left: 10px;
+    
+}

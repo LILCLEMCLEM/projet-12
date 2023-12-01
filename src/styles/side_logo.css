@@ -1,0 +1,15 @@
+.img_container {
+    margin: 10px 10px;
+    border-radius: 6px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 64px;
+    height: 64px;
+    background-color: white;
+}
+
+img {
+    padding: 15px;
+    
+}
