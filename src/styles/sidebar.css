@@ -17,3 +17,9 @@
     color: white;
     rotate: -90deg;
 }
+
+@media all and (width < 1450px){
+    .sidebar_container {
+        height: 1300px;
+    }
+}

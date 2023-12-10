@@ -1,6 +1,6 @@
 import mockData from "../data/data";
 
-let isMocked = true;
+let isMocked = false;
 export async function UseFetchUsers(id) {
   if (!isMocked) {
     try {
